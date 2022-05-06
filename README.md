@@ -1,15 +1,15 @@
 # python_projects
 
 <h1 align="center">Olá 👋, eu sou Vitor</h1>
-<h3 align="center">"Um passo de cada vez"</h3>
+<h3 align="center">"Aqui você encontra os projetos que aprendi em aula"</h3>
 
 - 🌱 Atualmente estou estudando **DataScience, python e relacionados"**
 
 - 👨‍💻 Todos os projetos e scraps que ja fiz estão aqui [https://github.com/vitaoTM?tab=repositories](https://github.com/vitaoTM?tab=repositories)
 
-- 💬 Perguntas **vida, universo e tudo mais**
+- 💬 Perguntas **vida, universo e tudo mais?**
 
-- 📫 How to reach me **vitor.grosskopf@gmail.com**
+- 📫 Caso queira falar comigo **vitor.grosskopf@gmail.com**
 
 - 📄 Minhas mídias sociais [https://linktr.ee/vitaoTM](https://linktr.ee/vitaoTM)
 
