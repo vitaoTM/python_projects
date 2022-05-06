@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou estudando **DataScience, python e relacionados"**
 
-- 👨‍💻 Todos os projetos e scraps que ja fiz estão aqui [https://github.com/vitaoTM?tab=repositories](https://github.com/vitaoTM?tab=repositories)
+- 👨‍💻 Todos os projetos e scraps que ja fiz estão aqui [Repesitórios](https://github.com/vitaoTM?tab=repositories)
 
 - 💬 Perguntas **vida, universo e tudo mais?**
 
